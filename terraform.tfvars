@@ -1,0 +1,6 @@
+location             = "westus2"
+resource_group_name  = "RG-Terraform"
+iot_hub_name         = "iot-hub-terraform"
+device_id            = "device-terraform"
+file_system_name     = "filesystemterraform"
+synapse_name         = "synapseterraform"
